@@ -1,0 +1,19 @@
+# Build artifacts
+build/
+dist/
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+
+# Claude Code
+.claude/
